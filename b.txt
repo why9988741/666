@@ -1,0 +1,9 @@
+XTF FtnInfo
+FileCookieID: 1
+FileName: OrCodeMaven Maven Webapp.rar
+FileSize: 6090179
+FtnUrl: /ftn_handler/566d00c9e192d065ff12ae253e33a15465488f0acd4ea737936a530d2d275b49aa1eb4807b44103c67d091fb2ec1ea18e05d08d0d370faf2ef92ad870e33dd35
+FtnCookie:FTN5K=28426ba1
+FtnIP: 117.135.173.14
+FtnPort:80
+
